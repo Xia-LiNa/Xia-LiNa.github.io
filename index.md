@@ -11,10 +11,10 @@
 
 ### My Apps for Apple TV
 
-1. Custom IPTV Channel 
+1. Custom IPTV Channel (Waitting for review)
 
    [English](http://xia-lina.github.io/IPTVen)
    
-   [中文](http://xia-lina.github.io/IPTVcn)
+   [Chinese](http://xia-lina.github.io/IPTVcn)
 
  
