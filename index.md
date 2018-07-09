@@ -9,12 +9,6 @@
 3. Time to Play Bridge
 4. ...
 
-### My Apps for Apple TV
 
-1. Custom IPTV Channel (Waitting for review)
-
-   [English](http://xia-lina.github.io/IPTVen)
-   
-   [Chinese](http://xia-lina.github.io/IPTVcn)
 
  
