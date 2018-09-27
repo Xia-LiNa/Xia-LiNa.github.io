@@ -4,9 +4,9 @@
 
 ### My Apps for IOS and Mac OS X 
 
-1. Practice Your Bridge
-2. Improve Your Bridge
-3. Time to Play Bridge
+1. 
+2. 
+3. 
 4. ...
 
 
