@@ -150,3 +150,88 @@ Single Championships By Group
 Single Championships By All
 (10) Printing.
  
+## (5) Bridge score calculator
+
+![图标](BridgeCalculator.png)
+
+Versions for iMac.
+
+Bridge score calculator for bridge scoring when you play bridge.
+
+## (6) Chess PGN Viewer
+
+![图标](ChessPGN.png)
+
+Versions for iPad/iPhone and iMac.
+
+Chess PGN Viewer is an application which allows to view PGN format chess games and visualizes moves from its notation. 
+
+Features
+1) Multiple games per PGN file.
+2) Displaying PGN Game Contents.
+3) Visualizing Chess Moves From Notation.
+
+## (7) Sudoku Baron
+
+![图标](Sudoku.png)
+
+Versions for iPad/iPhone and iMac.
+
+Sudoku objective: fill 9x9 grid with digits so that each column, row, and the nine 3x3 sub grids contains all of the digits from 1 to 9.
+
+1) Easy, medium, and hard levels.
+2) Hint.
+3) Notes.
+
+## (8) IPTV Player
+
+![图标](IPTV.jpg)
+
+IPTV Player, Watch television on your iMac or MBP.
+
+Please access IPTV Player Support Website.
+
+## (9) Family Cashflow
+
+![图标](FamilyCash.jpg)
+
+Versions for iPad/iPhone and iMac.
+
+Family Cashflow shows the family macro-balance of income and expenses, to provide overall visual information for you to make your family fiscal policies.
+
+Family Cashflow includes summary, common, husband, wife and children five pages to show that the overall balance of income and expenses of the family. 
+
+For making daily records easier, Income will be classified as one kind, expenses is divided into three kind, large(>1000), medium(100)
+
+## (10) iNotebook
+
+![图标](iNotebook.jpg)
+
+Versions for iPad/iPhone and iMac.
+
+Only one's mind is real. Strictly speaking, appearance is nothing but a mask. Real man is in himself.
+
+Record your life, your work, and your feelings, write down all with iAnyNote.
+iAnyNote lets you note everything you want, ideas, diary, to do list, VIP information, footmark whenever you travel all over the world. 
+
+Memo : for your idea, to do list, meeting agenda, scheduled work, shopping list, and anything you want to note.
+
+Diary: May be you do not write your diary for a long time, but it's important for you. What are you thinking, how do you feel, what is happening in your life? Diary will help you remember some special days, feelings in detail.
+
+VIP: Some one is very important for your business, work or life, you can record his or her information here.
+
+Footmark: May be you are a travel lover, and have been visited many places in the world. Now you can note your footmarks here, country visited, city visited, arrival time, hotel, sites visited and your visiting feelings.
+
+## (11) Classic snake final
+
+![图标](Snake.jpg)
+
+Versions for iMac.
+
+Eat foods, grow longer and fatter.
+
+Functions:
+(1) Change background and snake color.
+(2) Fullscreen.
+(3) Walls around board.
+(4) Speed setting.
