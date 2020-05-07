@@ -23,6 +23,7 @@ My Android Apps (Google play App Store) include:
 (6) Hearts Go on
 (7) Chess PGN Viewer
 (8) IPTV Player (a complete user defined IPTV solutions for live and non-live TV/stream)
+    For more information please access: [IPTV Player Support Website](https://tvplayersupport.github.io/IPTVPlayerSupport/)
 
 ## (1) Bridge Exercises
 
@@ -189,7 +190,7 @@ Sudoku objective: fill 9x9 grid with digits so that each column, row, and the ni
 
 IPTV Player, Watch television on your iMac or MBP.
 
-Please access IPTV Player Support Website.
+Please access [IPTV Player Support Website](https://tvplayersupport.github.io/IPTVPlayerSupport/)
 
 ## (9) Family Cashflow
 
