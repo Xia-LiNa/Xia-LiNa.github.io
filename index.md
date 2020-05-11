@@ -2,7 +2,7 @@
 
 ### Feel free to mail me: yu_tian_jian@163.com
 
-#### 欢迎访问中文网页：[http://www.yutianjian.com](https://yu-tian-jian.github.io)
+#### [欢迎访问中文网页](https://leijianan.github.io)
 
 ### My IOS ans MAC OS Apps 
 
