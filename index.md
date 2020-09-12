@@ -20,10 +20,7 @@ My Android Apps (Google play App Store) include:
 (3) Bridge Score Calculator, it's a tool for Bridge player.
 (4) Gobang (Renju, five-in-a-row, Gomoku)
 (5) iGo
-(6) Hearts Go on
-(7) Chess PGN Viewer
-(8) IPTV Player (a complete user defined IPTV solutions for live and non-live TV/stream)
-    For more information please access: [IPTV Player Support Website](https://tvplayersupport.github.io/IPTVPlayerSupport/)
+(6) Chess PGN Viewer
 
 ## (1) Bridge Exercises
 
